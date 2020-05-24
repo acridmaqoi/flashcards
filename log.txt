@@ -1,0 +1,12 @@
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+> add
+The card:
+> 3
+The definition of the card:
+> 7
+The pair ("3":"7") has been added.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+> log
+File name:
+> log.txt
